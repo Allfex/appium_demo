@@ -25,5 +25,7 @@
     1、打开手机开发者模式，启用USB调试
     2、通过adb devices查看设备ID，并把ID设置capabilities
 2、使用模拟器，测试服务端需要安装模拟器   
-测试运行
-![输入图片说明](src/main/resources/image/appium_mail_test_fidelity.gif)
+
+
+![测试运行](https://raw.githubusercontent.com/Allfex/appium_demo/main/src/main/resources/image/appium_mail_test_fidelity.gif)
+
